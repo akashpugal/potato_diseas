@@ -1,4 +1,4 @@
-# potato_diseas
+# potato_disease
 Predicting the health condition of potato plant based on its image
 
 
